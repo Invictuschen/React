@@ -1,1 +1,6 @@
 git config status.showuntrackedfiles no
+
+
+when facing unmodified files problem
+go to their directories and run: git add .
+git commit -m
